@@ -120,16 +120,6 @@ streamlit run app.py
 
 ---
 
-## 📌 Assignment Requirement Summary (TCS)
-
-> ✅ Create an agent of your choice that automates a problem  
-> ✅ The control flow within the agent is driven by LLM  
-> ✅ The code is production ready  
-> ✅ Includes README and assumptions  
-> ✅ Uploaded to GitHub
-
----
-
 ## 👤 Author
 
 Danlei Geng  
